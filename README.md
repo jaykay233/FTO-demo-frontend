@@ -23,7 +23,7 @@
 1. 克隆仓库：
 
    ```bash
-   git clone https://your-repository-url.git
+   git clone https://github.com/jaykay233/FTO-demo-frontend.git
    cd patent-fto-comparison
    ```
 
